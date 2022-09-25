@@ -47,7 +47,6 @@ A user selects a topic of interest and can read more about a story they are inte
 - Then type `npm start` . This runs the app in the development mode.
 - Open http://localhost:3000 to view it in your browser.
 - The browser should then deploy using a local host
-- Enjoy using One Small Thing!
 - NOTE: Make sure that you type Control + C in your terminal when you are done using the application. This ensure the server will stop running before your close your Terminal.
 - Start the server to see the local site `npm start`
 
