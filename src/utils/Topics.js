@@ -1,5 +1,4 @@
 export const Topics = [
-    
     "arts", 
     "books",
     "business", 
@@ -25,5 +24,4 @@ export const Topics = [
     "upshot", 
     "us", 
     "world"
-
 ];

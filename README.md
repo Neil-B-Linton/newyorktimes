@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# New York Times
+### An App made by a homeless vet in 8 hours from coffee shop to coffee shop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This was not only a testement to my overall skill, but also to my resolve. I had finished this application within a short time frame while having to use internet at a coffee shop, and no premium comforts. Not only did I find the resolve and will to continue on despite my circumstances, but I also learned new techniques for the future in displaying data as well as UI/UX.
 
-## Available Scripts
 
-In the project directory, you can run:
+### Table of Contents
+- [Project Specs](#project-specs)
+- [Illustrations](#illustrations)
+- [Setup](#setup)
+- [Project Management](#project-management)
+- [Future Features](#future-features)
+- [Contributors](#contributors)
+- [Technologies](#technologies)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Project Specs
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+New York Times App was designed to explore the techniques and my ability to create something within a short time frame. Within 8 hours and an ongoing crisis I was able to not only finish this product, but also add small perks with design attributes. 
 
-### `npm test`
+- React fundamentals
+- Test React components & asynchronous JS using Cypress
+- Create multi page UX using React Router
+- Use an agile process to turn well defined requirements into deployed and production ready software
+- Gain experience dividing applications into components and domains of responsibilities to facilitate multi-developer teams. 
+- Practice an advanced, professional git workflow including a Pull Request Review
+- Gain experience using continuous integration tools to build and automate the deployment of features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Illustrations
 
-### `npm run build`
+### Home Page, News Stories, and Articles
+A user selects a topic of interest and can read more about a story they are interested in 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![OST home-page gif]()
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Setup
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- In your terminal, clone the repo
+- `https://github.com/Neil-B-Linton/newyorktimes`
+- Make a new directory and cd into it
+- Install NPM packages
+- `npm install`
+- Do NOT run `npm audit fix --force`
+- Then type `npm start` . This runs the app in the development mode.
+- Open http://localhost:3000 to view it in your browser.
+- The browser should then deploy using a local host
+- Enjoy using One Small Thing!
+- NOTE: Make sure that you type Control + C in your terminal when you are done using the application. This ensure the server will stop running before your close your Terminal.
+- Start the server to see the local site `npm start`
 
-### `npm run eject`
+## Future Features
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- 3D Responsive Design
+- Elements to actively move on page (drag-drop)
+- Favoriting Certain Articles w/Profile for Storing information
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contributors (front-end)
+- [Neil Linton](https://github.com/Neil-B-Linton)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Technologies
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- React
+- React Router
+- Cypress
+- ES6 Javascript
+- Semantic HTML
+- Fetch API
+- Hooks
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**[Back to top](#table-of-contents)**
