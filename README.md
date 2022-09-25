@@ -1,5 +1,5 @@
 # New York Times
-### An App made by a homeless vet in 8 hours from coffee shop to coffee shop
+### An App made in 8 hours from coffee shop to coffee shop
 
 This was not only a testement to my overall skill, but also to my resolve. I had finished this application within a short time frame while having to use internet at a coffee shop, and no premium comforts. Not only did I find the resolve and will to continue on despite my circumstances, but I also learned new techniques for the future in displaying data as well as UI/UX.
 
