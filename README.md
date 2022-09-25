@@ -5,21 +5,22 @@ This was not only a testement to my overall skill, but also to my resolve. I had
 
 <img width="431" alt="Screen Shot 2022-09-24 at 6 54 19 PM" src="https://user-images.githubusercontent.com/97007726/192125408-43bde7d3-64ee-43f3-919e-525fcf1b6390.png">
 
-![6ulfhh](https://user-images.githubusercontent.com/97007726/192125507-96c4e746-8544-4fde-9a55-dff83d79e295.gif)
-
-
 ### Table of Contents
 - [Project Specs](#project-specs)
 - [Illustrations](#illustrations)
 - [Setup](#setup)
 - [Future Features](#future-features)
-- [Contributors](#contributor)
+- [Contributors](#contributors)
 - [Technologies](#technologies)
 
 
 ## Project Specs
 
 New York Times App was designed to explore the techniques and my ability to create something within a short time frame. Within 8 hours and an ongoing crisis I was able to not only finish this product, but also add small perks with design attributes. 
+
+![6ulfhh](https://user-images.githubusercontent.com/97007726/192125507-96c4e746-8544-4fde-9a55-dff83d79e295.gif)
+
+![6ulfu8](https://user-images.githubusercontent.com/97007726/192125600-3ad42cac-5ae0-463f-a962-c6ffd0fa2b43.gif)
 
 - React fundamentals
 - Test React components & asynchronous JS using Cypress
@@ -57,7 +58,7 @@ A user selects a topic of interest and can read more about a story they are inte
 - Elements to actively move on page (drag-drop)
 - Favoriting Certain Articles w/Profile for Storing information
 
-## Contributor (front-end)
+## Contributors (front-end)
 - [Neil Linton](https://github.com/Neil-B-Linton)
 
 ## Technologies
