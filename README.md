@@ -5,13 +5,15 @@ This was not only a testement to my overall skill, but also to my resolve. I had
 
 <img width="431" alt="Screen Shot 2022-09-24 at 6 54 19 PM" src="https://user-images.githubusercontent.com/97007726/192125408-43bde7d3-64ee-43f3-919e-525fcf1b6390.png">
 
+![6ulfhh](https://user-images.githubusercontent.com/97007726/192125507-96c4e746-8544-4fde-9a55-dff83d79e295.gif)
+
+
 ### Table of Contents
 - [Project Specs](#project-specs)
 - [Illustrations](#illustrations)
 - [Setup](#setup)
-- [Project Management](#project-management)
 - [Future Features](#future-features)
-- [Contributors](#contributors)
+- [Contributors](#contributor)
 - [Technologies](#technologies)
 
 
@@ -55,7 +57,7 @@ A user selects a topic of interest and can read more about a story they are inte
 - Elements to actively move on page (drag-drop)
 - Favoriting Certain Articles w/Profile for Storing information
 
-## Contributors (front-end)
+## Contributor (front-end)
 - [Neil Linton](https://github.com/Neil-B-Linton)
 
 ## Technologies
