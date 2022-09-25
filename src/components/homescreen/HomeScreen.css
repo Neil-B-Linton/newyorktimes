@@ -1,0 +1,15 @@
+.Homescreen {
+    height: auto;
+    width: auto;
+    display: grid;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-items: space-evenly;
+    align-content: center;
+}
+
+@media (min-width: 750px) {
+    .Homescreen {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

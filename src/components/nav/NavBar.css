@@ -1,0 +1,18 @@
+.Nav {
+    height: 20vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+}
+
+.TitleHome {
+    text-decoration: none;
+    color: black;
+}
+
+.TitleHome:Hover {
+    cursor: pointer;
+}
